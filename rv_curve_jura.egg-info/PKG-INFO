@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: rv-curve-jura
+Version: 0.1
+Summary: Plot all RV curves that you want!
+Author: Khaled Al Moulla
+Author-email: khaled.almoulla@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Indepedent
